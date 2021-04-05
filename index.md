@@ -1,4 +1,4 @@
-### jxl.Net
+### jxl.Net - A jpeg-xl dotnet csharp (c#) encoder decoder wrapper and GUI
 
 jpeg-xl dotnet csharp / c# encoder decoder wrapper and jpeg-xl 
 encoder GUI (WPF) with live jpeg-xl image preview and comparison slider 
