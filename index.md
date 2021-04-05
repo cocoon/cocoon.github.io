@@ -39,9 +39,9 @@ There are 3 (or more) different types of jpeg-xl headers:
 ### JXL_SIG_CODESTREAM (FF 0A)
 
 Result of:   
-`
+```
 cjxl.exe example.png example.jxl
-`
+```
 
 Example:
 ```
@@ -52,9 +52,9 @@ Offset(h) 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F
 ### JPEG XL container / JPEG lossless transcode (00 00 00 0C 4A 58 4C)
 
 Result of:   
-`
+```
 cjxl.exe example.jpg example.jxl
-`
+```
 
 Example:
 ```
